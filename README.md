@@ -4,8 +4,9 @@ Latika Patel
 Divyansh Natani         
 Abhishek Pai Angle         
 Atharva Raut  
-Divyanshi Kamra
-Pranjal Gupta
-Pradipta Parag Bora
-Payal Choudhary
+Divyanshi Kamra   
+Pranjal Gupta   
+Pradipta Parag Bora   
+Payal Choudhary   
+Ankit Kumar Jain
 
